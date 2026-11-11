@@ -1,0 +1,17 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large temporary model weights & training artifacts (if any)
+tmp_trainer/

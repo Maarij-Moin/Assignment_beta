@@ -1,0 +1,101 @@
+timestamp_local,date,round,tool,latency_ms,status,output
+2026-11-10T14:01:15,2026-11-10,1,air_quality_open_meteo,1045.200,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:01:15,2026-11-10,1,weather_open_meteo,962.100,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:01:15,2026-11-10,1,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:01:15,2026-11-10,1,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:02:15,2026-11-10,2,air_quality_open_meteo,982.400,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:02:15,2026-11-10,2,weather_open_meteo,948.300,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:02:15,2026-11-10,2,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:02:15,2026-11-10,2,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:03:15,2026-11-10,3,air_quality_open_meteo,1120.600,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:03:15,2026-11-10,3,weather_open_meteo,1010.500,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:03:15,2026-11-10,3,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:03:15,2026-11-10,3,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:04:15,2026-11-10,4,air_quality_open_meteo,955.100,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:04:15,2026-11-10,4,weather_open_meteo,935.800,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:04:15,2026-11-10,4,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:04:15,2026-11-10,4,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:05:15,2026-11-10,5,air_quality_open_meteo,990.800,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:05:15,2026-11-10,5,weather_open_meteo,970.200,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:05:15,2026-11-10,5,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:05:15,2026-11-10,5,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:06:15,2026-11-10,6,air_quality_open_meteo,1012.300,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:06:15,2026-11-10,6,weather_open_meteo,985.400,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:06:15,2026-11-10,6,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:06:15,2026-11-10,6,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:07:15,2026-11-10,7,air_quality_open_meteo,1088.700,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:07:15,2026-11-10,7,weather_open_meteo,1025.100,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:07:15,2026-11-10,7,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:07:15,2026-11-10,7,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:08:15,2026-11-10,8,air_quality_open_meteo,964.500,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:08:15,2026-11-10,8,weather_open_meteo,940.600,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:08:15,2026-11-10,8,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:08:15,2026-11-10,8,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:09:15,2026-11-10,9,air_quality_open_meteo,998.200,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:09:15,2026-11-10,9,weather_open_meteo,975.300,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:09:15,2026-11-10,9,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:09:15,2026-11-10,9,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:10:15,2026-11-10,10,air_quality_open_meteo,1030.400,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:10:15,2026-11-10,10,weather_open_meteo,995.800,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:10:15,2026-11-10,10,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:10:15,2026-11-10,10,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:11:15,2026-11-10,11,air_quality_open_meteo,975.000,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:11:15,2026-11-10,11,weather_open_meteo,950.200,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:11:15,2026-11-10,11,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:11:15,2026-11-10,11,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-10T14:12:15,2026-11-10,12,air_quality_open_meteo,1015.600,ok,PM2.5=16.2 PM10=24.1
+2026-11-10T14:12:15,2026-11-10,12,weather_open_meteo,980.500,ok,"(31.2, 46, 12.0)"
+2026-11-10T14:12:15,2026-11-10,12,heat_index_local,0.001,ok,HI=32.4C (mean of 1000)
+2026-11-10T14:12:15,2026-11-10,12,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:22:23,2026-11-11,1,heat_index_local,0.001,ok,HI=55.0C (mean of 1000)
+2026-11-11T13:22:23,2026-11-11,1,kb_lookup_local,0.023,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:22:24,2026-11-11,2,heat_index_local,0.001,ok,HI=55.0C (mean of 1000)
+2026-11-11T13:22:24,2026-11-11,2,kb_lookup_local,0.027,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:22:51,2026-11-11,1,air_quality_open_meteo,1642.730,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:22:51,2026-11-11,1,weather_open_meteo,967.886,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:22:51,2026-11-11,1,heat_index_local,0.002,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:22:51,2026-11-11,1,kb_lookup_local,0.043,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:18,2026-11-11,1,air_quality_open_meteo,1028.949,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:18,2026-11-11,1,weather_open_meteo,951.954,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:18,2026-11-11,1,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:18,2026-11-11,1,kb_lookup_local,0.023,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:20,2026-11-11,2,air_quality_open_meteo,911.579,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:20,2026-11-11,2,weather_open_meteo,960.831,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:20,2026-11-11,2,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:20,2026-11-11,2,kb_lookup_local,0.036,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:23,2026-11-11,3,air_quality_open_meteo,1001.113,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:23,2026-11-11,3,weather_open_meteo,947.901,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:23,2026-11-11,3,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:23,2026-11-11,3,kb_lookup_local,0.023,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:25,2026-11-11,4,air_quality_open_meteo,1058.853,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:25,2026-11-11,4,weather_open_meteo,999.072,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:25,2026-11-11,4,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:25,2026-11-11,4,kb_lookup_local,0.023,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:28,2026-11-11,5,air_quality_open_meteo,945.693,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:28,2026-11-11,5,weather_open_meteo,979.095,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:28,2026-11-11,5,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:28,2026-11-11,5,kb_lookup_local,0.025,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:30,2026-11-11,6,air_quality_open_meteo,1507.549,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:30,2026-11-11,6,weather_open_meteo,978.615,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:30,2026-11-11,6,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:30,2026-11-11,6,kb_lookup_local,0.030,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:33,2026-11-11,7,air_quality_open_meteo,970.690,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:33,2026-11-11,7,weather_open_meteo,945.725,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:33,2026-11-11,7,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:33,2026-11-11,7,kb_lookup_local,0.024,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:35,2026-11-11,8,air_quality_open_meteo,1104.280,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:35,2026-11-11,8,weather_open_meteo,1001.240,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:35,2026-11-11,8,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:35,2026-11-11,8,kb_lookup_local,0.030,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:38,2026-11-11,9,air_quality_open_meteo,988.877,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:38,2026-11-11,9,weather_open_meteo,1007.584,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:38,2026-11-11,9,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:38,2026-11-11,9,kb_lookup_local,0.030,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:41,2026-11-11,10,air_quality_open_meteo,977.454,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:41,2026-11-11,10,weather_open_meteo,1092.425,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:41,2026-11-11,10,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:41,2026-11-11,10,kb_lookup_local,0.025,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
+2026-11-11T13:23:43,2026-11-11,11,air_quality_open_meteo,979.689,ok,PM2.5=14.4 PM10=20.8
+2026-11-11T13:23:43,2026-11-11,11,weather_open_meteo,1003.051,ok,"(30.7, 44, 10.0)"
+2026-11-11T13:23:43,2026-11-11,11,heat_index_local,0.001,ok,HI=31.1C (mean of 1000)
+2026-11-11T13:23:43,2026-11-11,11,kb_lookup_local,0.023,ok,Children and elderly are most vulnerable to heatst (mean of 1000)
